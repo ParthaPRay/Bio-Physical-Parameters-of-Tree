@@ -44,6 +44,8 @@ Reference: https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Pho
 
 **8. Leaf Temperature**
 
+*  Normalized Relative Conopy Temperature (NCRT) = (Tcanopy - Tmin) / (Tmax - Tmin)
+
 
 **9. Chlorophyll Fluorescence**
 
@@ -118,11 +120,19 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 *  RDVI = (NIR840 - R660)/(NIR840 + R660)*(1/2)
 
 *  SIPI = (NIR840 - B450)/(NIR940 + R660)
+*  RENDVI = (NIR<sub>940</sub> - R<sub>710</sub>)/(NIR<sub>940</sub> + R<sub>710</sub>)     
 
+* Anthocynanin Reflectance Index (ARI) = 1/R<sub>550</sub>) - 1/R<sub>700</sub>) 
+
+* Caretenoid Reflectance Index (CRI) = 1/R<sub>510</sub>) - 1/R<sub>550</sub>)
+
+* Water Band Index (WBI) = R<sub>970</sub>)/R<sub>900</sub>)  _...AS7265x NOT Possible_
+
+
+# GLCM
 
 *  Grey Level Co-occurance Matrix (GLCM) contains Mean, Variance, Homogeneity, Contrast, Dissimilarity, Entropy, Second Moment, Correlation
 
-*  Normalized Relative Conopy Temperature (NCRT) = (Tcanopy - Tmin) / (Tmax - Tmin)
 
 
 
