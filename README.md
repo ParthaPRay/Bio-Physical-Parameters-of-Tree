@@ -127,6 +127,9 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 
 
 
+**Follwoing are difficult to measure by using AS7265x**
+
+
 
 * OSAVI = (1.16 * (NIR<sub>840</sub> - R<sub>660</sub>)/(NIR<sub>840</sub> + R<sub>640</sub> + 0.16)     _...AS7265x NOT Possible_
 * RDVI = (NIR<sub>840</sub> - R<sub>660</sub>)/(NIR<sub>840</sub> + R<sub>660</sub>)*(1/2)      _...AS7265x NOT Possible_
