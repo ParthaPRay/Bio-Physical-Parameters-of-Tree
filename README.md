@@ -51,8 +51,9 @@ Reference: https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Pho
 
 **10. Leaf Spectrometry**
 
+**11. Leaf Water Content**
 
-**11. Spectral Indices**
+**12. Spectral Indices**
 
 * NDVI = (NIR - Red)/(NIR + Red)
 * WDVI = NIR - slope_soil * Red;
@@ -125,4 +126,24 @@ Reference: https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Pho
 Below articler discusses about various paramters of climate change.
 
 Brun, P., Zimmermann, N.E., Hari, C., Pellissier, L., Karger, D.N. (preprint): Global climate-related predictors at kilometre resolution for the past and future. Earth Syst. Sci. Data Discuss. https://doi.org/10.5194/essd-2022-212
+
+
+# Calibration 
+
+**1. Multivarite Claibration Techniques**
+
+  * Partial least squares (PLS)
+  * Least squares support vector machine regression (LSSVR)
+  * Radial basis function (RBF) neural network (NN)
+
+# Error Detection and Analysis
+
+* PCA
+
+* Standard error of calibration (SEC)
+* Standard error of prediction (SEP)
+* Bias
+* R<sup>2</sup>
+* MSE
+* RMSE
 
