@@ -62,6 +62,8 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 
 **13. Spectral Indices**
 
+[https://github.com/ParthaPRay/AS7265x-Spectral-Indices](url)
+
 * NDVI = (NIR - Red)/(NIR + Red)
 * WDVI = NIR - slope_soil * Red;
   
@@ -113,20 +115,25 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
   
 *  MSRI = ((NIR/Red) - 1) / (NIR/Blue)
 
-*  RENDVI = (NIR940 - R710)/(NIR940 + R710)
+* ARVI = (NIR - Red)/ (NIR + Red - 2* Blue)
 
-*  OSAVI = (1.16 * (NIR840 - R660)/(NIR840 + R640 + 0.16)
+* MSAVI = (1/2)* [2*(NIR+1) - Sqrt( (2*NIR+1)^2 - 8*(NIR -Red) )]
 
-*  RDVI = (NIR840 - R660)/(NIR840 + R660)*(1/2)
+* Meris Terrestrial Chlorophyll Index  (MTCI) = (NIR -Red)/(Red- Blue)
 
-*  SIPI = (NIR840 - B450)/(NIR940 + R660)
-*  RENDVI = (NIR<sub>940</sub> - R<sub>710</sub>)/(NIR<sub>940</sub> + R<sub>710</sub>)     
+* Normalized Difference Red-Edge Index (NDRE) = (NIR - RedEdge)/ (NIR + RedEdge)
 
-* Anthocynanin Reflectance Index (ARI) = 1/R<sub>550</sub>) - 1/R<sub>700</sub>) 
+* RENDVI = (NIR<sub>940</sub> - R<sub>710</sub>)/(NIR<sub>940</sub> + R<sub>710</sub>)     
 
-* Caretenoid Reflectance Index (CRI) = 1/R<sub>510</sub>) - 1/R<sub>550</sub>)
 
-* Water Band Index (WBI) = R<sub>970</sub>)/R<sub>900</sub>)  _...AS7265x NOT Possible_
+
+
+* OSAVI = (1.16 * (NIR<sub>840</sub> - R<sub>660</sub>)/(NIR<sub>840</sub> + R<sub>640</sub> + 0.16)     _...AS7265x NOT Possible_
+* RDVI = (NIR<sub>840</sub> - R<sub>660</sub>)/(NIR<sub>840</sub> + R<sub>660</sub>)*(1/2)      _...AS7265x NOT Possible_
+* SIPI = (NIR<sub>840</sub> - B<sub>450</sub>)/(NIR<sub>940</sub> + R<sub>660</sub>)    _...AS7265x NOT Possible_
+* Anthocynanin Reflectance Index (ARI) = 1/R<sub>550</sub>) - 1/R<sub>700</sub>)     _...AS7265x NOT Possible_ 
+* Caretenoid Reflectance Index (CRI) = 1/R<sub>510</sub>) - 1/R<sub>550</sub>)    _...AS7265x NOT Possible_
+* Water Band Index (WBI) = R<sub>970</sub>)/R<sub>900</sub>)         _...AS7265x NOT Possible_
 
 
 # GLCM
