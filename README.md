@@ -126,9 +126,7 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 
 
 
-* **Misc**
-
-Below articler discusses about various paramters of climate change.
+* Various paramters of climate change
 
 Brun, P., Zimmermann, N.E., Hari, C., Pellissier, L., Karger, D.N. (preprint): Global climate-related predictors at kilometre resolution for the past and future. Earth Syst. Sci. Data Discuss. https://doi.org/10.5194/essd-2022-212
 
@@ -154,5 +152,5 @@ Brun, P., Zimmermann, N.E., Hari, C., Pellissier, L., Karger, D.N. (preprint): G
 * RMSE
 * MAPE
 * RPD
-* 
+  
 
