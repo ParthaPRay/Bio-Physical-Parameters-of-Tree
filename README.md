@@ -65,6 +65,9 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 [https://github.com/ParthaPRay/AS7265x-Spectral-Indices](url)
 
 * NDVI = (NIR - Red)/(NIR + Red)
+
+* CNDVI = (NIR<sub>940</sub> - Red<sub>660</sub>)/(NIR<sub>940</sub> + Red<sub>660</sub>)
+
 * WDVI = NIR - slope_soil * Red;
   
 * PVI = (NIR - slope_soil × Red - intercept) / sqrt(slope_soil^2 + 1)
