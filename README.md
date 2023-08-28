@@ -130,7 +130,7 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 
 * RENDVI = (NIR<sub>940</sub> - R<sub>710</sub>)/(NIR<sub>940</sub> + R<sub>710</sub>)     
 
-
+* Simple Ratio Pigment Index (SRPI) = Red/Green
 
 **Follwoing are difficult to measure by using AS7265x**
 
