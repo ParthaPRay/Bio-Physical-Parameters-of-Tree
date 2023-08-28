@@ -99,7 +99,9 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 *  GLI = 2*Green - Red - Blue
   
 *  CI = (NIR / Red) - 1
-  
+
+* CCI = ((NIR<sub>940</sub> / Red<sub>6600</sub>) - 1) / ((NIR<sub>940</sub> / Red<sub>660</sub>) + 1)
+
 *  GCI = (NIR/Green) − 1
   
 *  DGCI = (NIR - Green) / (NIR + Green)
