@@ -45,7 +45,7 @@ Reference: https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Pho
 **8. Leaf Temperature**
 
 
-**9. Chlorophyll fluorescence**
+**9. Chlorophyll Fluorescence**
 
 
 
@@ -53,7 +53,12 @@ Reference: https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Pho
 
 **11. Leaf Water Content**
 
-**12. Spectral Indices**
+**12 Light Extinction Coefficient**
+
+
+Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
+
+**13. Spectral Indices**
 
 * NDVI = (NIR - Red)/(NIR + Red)
 * WDVI = NIR - slope_soil * Red;
@@ -133,6 +138,7 @@ Brun, P., Zimmermann, N.E., Hari, C., Pellissier, L., Karger, D.N. (preprint): G
 **1. Multivarite Claibration Techniques**
 
   * Partial least squares (PLS)
+  * Support vector regression (SVR)
   * Least squares support vector machine regression (LSSVR)
   * Radial basis function (RBF) neural network (NN)
 
@@ -146,4 +152,7 @@ Brun, P., Zimmermann, N.E., Hari, C., Pellissier, L., Karger, D.N. (preprint): G
 * R<sup>2</sup>
 * MSE
 * RMSE
+* MAPE
+* RPD
+* 
 
