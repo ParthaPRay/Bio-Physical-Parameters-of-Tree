@@ -37,30 +37,30 @@ Reference: https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Pho
 
 **6. Leaf Capacitance**
 
+**7. Tree Tilt Monitoring**
+
+**8. Leaf Area Index**
 
 
-**7. Leaf Area Index**
-
-
-**8. Leaf Temperature**
+**9. Leaf Temperature**
 
 *  Normalized Relative Conopy Temperature (NCRT) = (Tcanopy - Tmin) / (Tmax - Tmin)
 
 
-**9. Chlorophyll Fluorescence**
+**10. Chlorophyll Fluorescence**
 
 
 
-**10. Leaf Spectrometry**
+**11. Leaf Spectrometry**
 
-**11. Leaf Water Content**
+**12. Leaf Water Content**
 
-**12 Light Extinction Coefficient**
+**13. Light Extinction Coefficient**
 
 
 Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 
-**13. Spectral Indices**
+**14. Spectral Indices**
 
 [https://github.com/ParthaPRay/AS7265x-Spectral-Indices](url)
 
