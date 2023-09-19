@@ -115,11 +115,23 @@ x = complement of relative humidity in decimal form, ie. x = 1.0 ‐ (rh/100)
 
 More formula links: 
 
+**https://tc.copernicus.org/preprints/tc-2023-8/tc-2023-8.pdf**
+
+_https://www.nasa.gov/centers/dryden/pdf/87878main_H-937.pdf_
+
+_http://mc-computing.com/science_facts/Water_Vapor/Other_Formulas.html_
+
+_https://journals.ametsoc.org/view/journals/apme/57/6/jamc-d-17-0334.1.xml_
+
+_https://www.researchgate.net/profile/Junzeng-Xu/publication/257723701_Error_of_Saturation_Vapor_Pressure_Calculated_by_Different_Formulas_and_Its_Effect_on_Calculation_of_Reference_Evapotranspiration_in_High_Latitude_Cold_Region/links/542ddd6d0cf277d58e8e35fb/Error-of-Saturation-Vapor-Pressure-Calculated-by-Different-Formulas-and-Its-Effect-on-Calculation-of-Reference-Evapotranspiration-in-High-Latitude-Cold-Region.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19_
+
 https://www.wikiwand.com/en/Vapour_pressure_of_water
 
 https://pulsegrow.com/blogs/learn/vpd#:~:text=VPD%20%3D%20SVP%20%E2%80%93%20AVP&text=It's%20as%20simple%20as%20that.
 
 https://andrewsforest.oregonstate.edu/data/studies/ms01/dewpt_vpd_calculations.pdf
+
+https://www.omnicalculator.com/chemistry/vapour-pressure-of-water
 
 
 **2. Arrhenius equation**
