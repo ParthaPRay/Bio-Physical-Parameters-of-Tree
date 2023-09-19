@@ -14,40 +14,79 @@ Formulation: https://en.wikipedia.org/wiki/Vapour-pressure_deficit
 Basics of VPD: https://pulsegrow.com/blogs/learn/vpd
 
 
-Formula to calculate VPD:
+Formula to calculate VPD: VPD=(1− RH/100) × SVP(T)
 
-VPD=(1− RH/100) × SVP(T)
-
-Where:
-
+Where,
 RH = Relative Humidity (in percentage, e.g., 70 for 70%)
-
 SVP(T) = Saturation Vapor Pressure at temperature T (in kPa). This can be approximated using the Tetens formula:
 
 SVP(T)=0.6108 × e((17.27×T)/(T+237.3))
- 
 Here, 
 T is the air temperature in degrees Celsius and 
 e is the base of natural logarithm (approximately equal to 2.71828).
 
-VPD = SPV(T) - AVP 
 
+VPD = SPV(T) - AVP 
 where, Actual Vapor Pressure (AVP) =  (RH x SVP(T))/100
 
 
 
 Dew point temperature = Tdew = (237.3*X) / (17.269  ‐X)
 
-where X = ln(Rh/100)+((17.269*Tair)/(237.3+Tair)), 
-
+where X = ln(Rh/100)+((17.269*Tair)/(237.3+Tair))
 and
-
 Tair is air temperature
-
 Tdew is dew point temperature
 and,
-
 Vapor Pressure Deficit = es ‐ ea = es ‐ (Rh*es/100) at any instant
+
+
+
+DEFINITIONS:
+SATURATION VAPOR PRESSURE: water evaporating and condensing through
+the air‐water interface yields zero net transport.
+Ideal gas law to sat vap pr:
+e = pRT
+e=vapor pressure in millibars
+p=vapor density in mass/unit volume (g/cubic meter)
+T=absolute temperature (degrees Kelvin)
+R=vapor gas constant
+If we use the universal gas constant for R, the formula becomes
+e = 1.61pRT
+which becomes
+p = 0.622e/RT
+This is known as VAPOR DENSITY or ABSOLUTE HUMIDITY of the atmosphere.
+RELATIVE HUMIDITY is the ratio of the vapor density (or pressure) to
+the saturation vapor density (or pressure) at the same temperature.
+
+APPROXIMATIONS:
+For saturated vapor pressure in temperature range 25‐55 deg Fahrenheit:
+e == 6.11 + 0.339(D‐32)
+e = sat vap pr in millibars
+D = dew point temperature in Fahrenheit
+For saturated vapor pressure in temperature range 25‐55 deg Fahrenheit:
+e == 0.18 + 0.01(D‐32)
+e = sat vap pr in inches of mercury
+D = dew point temperature in Fahrenheit
+Relative humidity can be approximated from air and dew point by
+rh = 100 ((112 ‐ 0.1T + D) / 112 + 0.9T)**8
+T = temperature
+D = dew point
+(Range of valid temperatures is unknown).
+Dew point can be approximated in temp range ‐40 to 50 deg C by
+T ‐ D = (14.55+0.114T)*x + ((2.5+0.007T)*x)**3 + ((15.9+0.117T)*x)**14
+T = temperature
+D = dewpt
+x = complement of relative humidity in decimal form, ie. x = 1.0 ‐ (rh/100)
+
+
+
+
+
+
+
+
+
 
 
 More formula links: 
