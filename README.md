@@ -14,6 +14,51 @@ Formulation: https://en.wikipedia.org/wiki/Vapour-pressure_deficit
 Basics of VPD: https://pulsegrow.com/blogs/learn/vpd
 
 
+Formula to calculate VPD:
+
+VPD=(1− RH/100) × SVP(T)
+
+Where:
+
+RH = Relative Humidity (in percentage, e.g., 70 for 70%)
+
+SVP(T) = Saturation Vapor Pressure at temperature T (in kPa). This can be approximated using the Tetens formula:
+
+SVP(T)=0.6108 × e((17.27×T)/(T+237.3))
+ 
+Here, 
+T is the air temperature in degrees Celsius and 
+e is the base of natural logarithm (approximately equal to 2.71828).
+
+VPD = SPV(T) - AVP 
+
+where, Actual Vapor Pressure (AVP) =  (RH x SVP(T))/100
+
+
+
+Dew point temperature = Tdew = (237.3*X) / (17.269  ‐X)
+
+where X = ln(Rh/100)+((17.269*Tair)/(237.3+Tair)), 
+
+and
+
+Tair is air temperature
+
+Tdew is dew point temperature
+and,
+
+Vapor Pressure Deficit = es ‐ ea = es ‐ (Rh*es/100) at any instant
+
+
+More formula links: 
+
+https://www.wikiwand.com/en/Vapour_pressure_of_water
+
+https://pulsegrow.com/blogs/learn/vpd#:~:text=VPD%20%3D%20SVP%20%E2%80%93%20AVP&text=It's%20as%20simple%20as%20that.
+
+https://andrewsforest.oregonstate.edu/data/studies/ms01/dewpt_vpd_calculations.pdf
+
+
 **2. Arrhenius equation**
 
 In physical chemistry, the Arrhenius equation is a formula for the temperature dependence of reaction rates. The equation was proposed by Svante Arrhenius in 1889, based on the work of Dutch chemist Jacobus Henricus van 't Hoff who had noted in 1884 that the van 't Hoff equation for the temperature dependence of equilibrium constants suggests such a formula for the rates of both forward and reverse reactions. This equation has a vast and important application in determining the rate of chemical reactions and for calculation of energy of activation. Arrhenius provided a physical justification and interpretation for the formula.[1][2][3][4] Currently, it is best seen as an empirical relationship.[5]: 188  It can be used to model the temperature variation of diffusion coefficients, population of crystal vacancies, creep rates, and many other thermally-induced processes/reactions. The Eyring equation, developed in 1935, also expresses the relationship between rate and energy.
