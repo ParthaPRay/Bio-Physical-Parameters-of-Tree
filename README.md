@@ -153,6 +153,8 @@ https://www.mdpi.com/2073-4425/14/6/1284
 
 https://www.mdpi.com/1996-1944/16/5/1861
 
+https://www.sciencedirect.com/science/article/abs/pii/S1566119922002701
+
 https://www.researchsquare.com/article/rs-2753352/latest.pdf
 
 
@@ -267,6 +269,10 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 * RENDVI = (NIR<sub>940</sub> - R<sub>710</sub>)/(NIR<sub>940</sub> + R<sub>710</sub>)     
 
 * Simple Ratio Pigment Index (SRPI) = Red/Green
+
+
+**14. Electrochemical Impedance Spectroscopy**
+
 
 **Follwoing are difficult to measure by using AS7265x**
 
