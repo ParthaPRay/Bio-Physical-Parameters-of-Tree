@@ -136,7 +136,12 @@ https://www.omnicalculator.com/chemistry/vapour-pressure-of-water
 
 **2. Bio-ristor**
 
+
 References
+
+https://www.emiliaromagnaexpodubai.it/en/event/bioristor-is-an-in-vivo-biosensor-for-plant-sap-monitoring/
+
+https://www.plantbit.it/
 
 https://www.mdpi.com/2227-9040/11/7/374
 
