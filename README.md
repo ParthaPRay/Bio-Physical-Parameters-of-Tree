@@ -271,7 +271,16 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 * Simple Ratio Pigment Index (SRPI) = Red/Green
 
 
-**14. Electrochemical Impedance Spectroscopy**
+**15. Electrochemical Impedance Spectroscopy**
+
+
+**16. Organic Electrochemical Transistor (OECT)**
+
+
+
+**CSTM Details**
+
+https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/index.html
 
 
 **Follwoing are difficult to measure by using AS7265x**
