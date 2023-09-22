@@ -1,7 +1,7 @@
 # Bio-Physical-Parameters-of-Tree
 This repo contains the infromation about various biophysiological parameters of a tree 
 
-# Bio-physical parameters of a tree
+# Bio-Physical Parameters of a Tree
 
 **1. Vapour-pressure deficit, or VPD**
 
