@@ -134,11 +134,22 @@ https://andrewsforest.oregonstate.edu/data/studies/ms01/dewpt_vpd_calculations.p
 https://www.omnicalculator.com/chemistry/vapour-pressure-of-water
 
 
-**2. Arrhenius equation**
+**2. Bio-ristor**
 
-In physical chemistry, the Arrhenius equation is a formula for the temperature dependence of reaction rates. The equation was proposed by Svante Arrhenius in 1889, based on the work of Dutch chemist Jacobus Henricus van 't Hoff who had noted in 1884 that the van 't Hoff equation for the temperature dependence of equilibrium constants suggests such a formula for the rates of both forward and reverse reactions. This equation has a vast and important application in determining the rate of chemical reactions and for calculation of energy of activation. Arrhenius provided a physical justification and interpretation for the formula.[1][2][3][4] Currently, it is best seen as an empirical relationship.[5]: 188  It can be used to model the temperature variation of diffusion coefficients, population of crystal vacancies, creep rates, and many other thermally-induced processes/reactions. The Eyring equation, developed in 1935, also expresses the relationship between rate and energy.
+References
 
-Formulation: https://en.wikipedia.org/wiki/Arrhenius_equation
+https://www.mdpi.com/2227-9040/11/7/374
+
+https://ieeexplore.ieee.org/iel7/6287639/10005208/10097476.pdf
+
+https://link.springer.com/article/10.1007/s11119-023-10049-1
+
+https://www.mdpi.com/2073-4425/14/6/1284
+
+https://www.mdpi.com/1996-1944/16/5/1861
+
+https://www.researchsquare.com/article/rs-2753352/latest.pdf
+
 
 
 **3. Potential Evapotranspiration (PET)**
