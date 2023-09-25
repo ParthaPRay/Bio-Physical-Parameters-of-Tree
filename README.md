@@ -270,11 +270,16 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 
 * Simple Ratio Pigment Index (SRPI) = Red/Green
 
+**15. Soil Heat Flux**
 
-**15. Electrochemical Impedance Spectroscopy**
+Use Peltier PEC to measure the heatflux of soil. 
 
 
-**16. Organic Electrochemical Transistor (OECT)**
+
+**16. Electrochemical Impedance Spectroscopy**
+
+
+**17. Organic Electrochemical Transistor (OECT)**
 
 
 
