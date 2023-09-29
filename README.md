@@ -198,7 +198,22 @@ Reference: https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Pho
 
 Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 
-**14. Spectral Indices**
+
+
+**14. Electrochemical Impedance Spectroscopy**
+
+
+**15. Organic Electrochemical Transistor (OECT)**
+
+
+
+**16. Equivalent potential temperature**
+
+
+**17. Soil Heat Flux**
+
+
+**18. Spectral Indices**
 
 [https://github.com/ParthaPRay/AS7265x-Spectral-Indices](url)
 
@@ -270,16 +285,7 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 
 * Simple Ratio Pigment Index (SRPI) = Red/Green
 
-**15. Soil Heat Flux**
 
-Use Peltier PEC to measure the heatflux of soil. 
-
-
-
-**16. Electrochemical Impedance Spectroscopy**
-
-
-**17. Organic Electrochemical Transistor (OECT)**
 
 
 
