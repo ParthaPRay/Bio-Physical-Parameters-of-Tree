@@ -212,8 +212,11 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 
 **17. Soil Heat Flux**
 
+**18. Stomatala Resistance**
 
-**18. Spectral Indices**
+https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Photosynthesis/CLM50_Tech_Note_Photosynthesis.html
+
+**19. Spectral Indices**
 
 [https://github.com/ParthaPRay/AS7265x-Spectral-Indices](url)
 
