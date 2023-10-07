@@ -163,6 +163,8 @@ https://www.researchsquare.com/article/rs-2753352/latest.pdf
 
 Crop evapotranspiration - Guidelines for computing crop water requirements - FAO Irrigation and drainage paper 56 https://www.fao.org/3/X0490E/x0490e00.htm
 
+https://www.fao.org/3/X0490E/x0490e08.htm#penman%20monteith%20equation
+
 
 **4. Leaf Surface Resistance**
 
