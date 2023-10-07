@@ -161,6 +161,7 @@ https://www.researchsquare.com/article/rs-2753352/latest.pdf
 
 **3. Potential Evapotranspiration (PET)**
 
+Crop evapotranspiration - Guidelines for computing crop water requirements - FAO Irrigation and drainage paper 56 https://www.fao.org/3/X0490E/x0490e00.htm
 
 
 **4. Leaf Surface Resistance**
@@ -187,9 +188,14 @@ Reference: https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Pho
 
 **10. Chlorophyll Fluorescence**
 
+  * Fv/Fm
+  * Y(II)
+  * ETR
 
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2486.2009.02041.xhttps://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2486.2009.02041.x
 
 **11. Leaf Spectrometry**
+
 
 **12. Leaf Water Content**
 
@@ -209,14 +215,30 @@ Reference: https://link.springer.com/article/10.1007/s13580-011-0216-3
 
 **16. Equivalent potential temperature**
 
+**17. Water use efficiency**
 
-**17. Soil Heat Flux**
+    *  Crop Water Stress (CWSI)
+    *  Stomatal conductance (Ig) Indices
+    *  Relative water content (RWC) 
 
-**18. Stomatala Resistance**
+https://www.sciencedirect.com/science/article/pii/S0378377423002986
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2486.2009.02041.x
+
+**18. Soil Heat Flux**
+
+**19. Stomatala Resistance**
 
 https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Photosynthesis/CLM50_Tech_Note_Photosynthesis.html
 
-**19. Spectral Indices**
+**20. Abiotic Stress Index**
+
+
+**21. Growing degree days (GDD)**
+
+
+
+**22. Spectral Indices**
 
 [https://github.com/ParthaPRay/AS7265x-Spectral-Indices](url)
 
