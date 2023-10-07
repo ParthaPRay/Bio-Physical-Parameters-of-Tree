@@ -250,13 +250,13 @@ a spectrophotometer (SPECORD 200, Analytik Jena AG,
 Germany) at 470, 646, and 663 nm and calculated according
 to Lichtenthaler (1987):
 
-Chl a = 12.25A663.2−2.79A646.8 
+Chl a = 12.25A<sub>663.2</sub>−2.79A<sub>646.8</sub>
 
-Chl b = 21.50A 646.8−5.10A663.2
+Chl b = 21.50A<sub>646.8</sub>−5.10A<sub>663.2</sub>
 
-Chl a + b = 7.15A663.2 + 18.71A646.8
+Chl a + b = 7.15A<sub>663.2</sub> + 18.71A<sub>646.8</sub>
 
-Car x + c = 1000A470−1.82 chl a−85.02 chl b
+Car x + c = 1000A<sub>470</sub>−1.82 chl a−85.02 chl b
 
 The content of the pigments was then calculated as per gram of dry weight (mg g −1 ).
 
