@@ -261,7 +261,18 @@ Car x + c = 1000A<sub>470</sub>−1.82 chl a−85.02 chl b
 The content of the pigments was then calculated as per gram of dry weight (mg g −1 ).
 
 
-**23. Spectral Indices**
+**23. NEE, GPP and R<sub>ecp</sub>**
+
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2486.2009.02041.x
+
+ * Net ecosystem exchange (NEE) of CO2 between the ecosystem and the atmosphere reflects the balance between gross CO2 assimilation
+
+ * Gross primary production (GPP)
+
+ * Ecosystem respiration (R<sub>ecp</sub>)
+
+
+**24. Spectral Indices**
 
 [https://github.com/ParthaPRay/AS7265x-Spectral-Indices](url)
 
