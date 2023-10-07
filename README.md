@@ -236,9 +236,32 @@ https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/Photosynthesis
 
 **21. Growing degree days (GDD)**
 
+**22. Content of assimilatory pigments**
+
+https://link.springer.com/article/10.1007/s11676-022-01476-3
+
+The analysis of assimilatory pigments followed each sam-
+pling of needles for fluorescence measurement. Pigment
+extraction was performed with organic aqueous solvent com-
+posed of 80% acetone utilised on previously homogenised
+freeze-dried needles. Chlorophyll (Chl a, Chl b, Chl a + b)
+and total carotenoid (Car x + c) contents were recorded by
+a spectrophotometer (SPECORD 200, Analytik Jena AG,
+Germany) at 470, 646, and 663 nm and calculated according
+to Lichtenthaler (1987):
+
+Chl a = 12.25A663.2−2.79A646.8 
+
+Chl b = 21.50A 646.8−5.10A663.2
+
+Chl a + b = 7.15A663.2 + 18.71A646.8
+
+Car x + c = 1000A470−1.82 chl a−85.02 chl b
+
+The content of the pigments was then calculated as per gram of dry weight (mg g −1 ).
 
 
-**22. Spectral Indices**
+**23. Spectral Indices**
 
 [https://github.com/ParthaPRay/AS7265x-Spectral-Indices](url)
 
