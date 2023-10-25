@@ -309,6 +309,8 @@ Testing for multiple types of leafs
 ![image](https://github.com/ParthaPRay/Bio-Physical-Parameters-of-Tree/assets/1689639/7ca5f89d-00b3-4d32-9151-a1f86d92f3c6)
 
 
+Read for techqniue: https://www.scienceinschool.org/article/2019/colour-chlorophyll-and-chromatography/
+
 **25. Spectral Indices**
 
 [https://github.com/ParthaPRay/AS7265x-Spectral-Indices](url)
