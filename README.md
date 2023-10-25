@@ -304,7 +304,9 @@ Chlorophyll B
 
 ![image](https://github.com/ParthaPRay/Bio-Physical-Parameters-of-Tree/assets/1689639/f4b401ad-856e-463b-93f0-df66e8a44f1e)
 
+Testing for multiple types of leafs
 
+![image](https://github.com/ParthaPRay/Bio-Physical-Parameters-of-Tree/assets/1689639/7ca5f89d-00b3-4d32-9151-a1f86d92f3c6)
 
 
 **25. Spectral Indices**
