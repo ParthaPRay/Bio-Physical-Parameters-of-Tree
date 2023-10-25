@@ -274,7 +274,40 @@ https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2486.2009.02041.x
  * Ecosystem respiration (R<sub>ecp</sub>)
 
 
-**24. Spectral Indices**
+**24. Chromatography using Chromatography Paper**
+Chromatography is a powerful laboratory technique used to separate and analyze mixtures of compounds based on their chemical properties. 
+It's particularly relevant to chlorophyll analysis in the context of plant biology and photosynthesis.
+In the study of chlorophyll, chromatography plays a crucial role. Chlorophyll is the pigment responsible for capturing light energy in plant cells and is essential for photosynthesis. 
+By using chromatography, scientists can separate the different types of chlorophyll (chlorophyll-a and chlorophyll-b) and other pigments present in plant leaves. 
+This separation is achieved because each pigment has a distinct chemical structure and interacts differently with the chromatography medium.
+The chromatography process allows researchers to visualize and quantify the pigments, providing insights into the health and efficiency of photosynthetic processes in plants. 
+By comparing the ratios of chlorophyll-a to chlorophyll-b, scientists can gain a better understanding of a plant's ability to convert light energy into chemical energy, which is vital for its growth and survival.
+
+Process:
+
+Step 1: Leaf + Acetone on Morter Pastel => Mixture
+
+Step 2: Sample a little from the above Mixture on a Chromatography Paper.
+
+Step 3: Place the chromatography paper sub-merged into organic liquid
+
+Step 4: Chromatrography paper having the leaf extract sample is socked and spread into the chromatography paper having 4 layers such as in below order:
+
+Caretenoids
+
+Xanthophylls
+
+Chlorophyll A
+
+Chlorophyll B
+
+
+![image](https://github.com/ParthaPRay/Bio-Physical-Parameters-of-Tree/assets/1689639/f4b401ad-856e-463b-93f0-df66e8a44f1e)
+
+
+
+
+**25. Spectral Indices**
 
 [https://github.com/ParthaPRay/AS7265x-Spectral-Indices](url)
 
