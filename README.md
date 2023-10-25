@@ -301,6 +301,14 @@ Chlorophyll A
 
 Chlorophyll B
 
+Chl a = 12.25λ663.2 − 2.79λ646.8
+
+Chl b = 21.50λ646.8 − 5.10λ663.2
+
+Chl a + b = 7.15λ663.2 + 18.71λ646.8
+
+Carotenoids = (1000* × λ470 nm − 1.82* × Chl a − 85.02* × Chl b)/198 
+
 
 ![image](https://github.com/ParthaPRay/Bio-Physical-Parameters-of-Tree/assets/1689639/f4b401ad-856e-463b-93f0-df66e8a44f1e)
 
