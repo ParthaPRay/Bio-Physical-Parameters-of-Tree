@@ -113,6 +113,7 @@ x = complement of relative humidity in decimal form, ie. x = 1.0 ‐ (rh/100)
 
 
 
+
 More formula links: 
 
 **https://tc.copernicus.org/preprints/tc-2023-8/tc-2023-8.pdf** 1.	Xiang Huang, Charles J. Abolt, and Katrina E. Bennett, Brief Communication: Effects of different saturation vapor pressure calculations on simulated surface-subsurface hydrothermal regimes at a permafrost field site, The Cryosphere, 2023, https://tc.copernicus.org/preprints/tc-2023-8/tc-2023-8.pdf, https://doi.org/10.5194/tc-2023-8  
