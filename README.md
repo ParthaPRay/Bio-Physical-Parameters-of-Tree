@@ -423,6 +423,20 @@ https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/index.html
 * Various paramters of climate change:  Read Brun, P., Zimmermann, N.E., Hari, C., Pellissier, L., Karger, D.N. (preprint): Global climate-related predictors at kilometre resolution for the past and future. Earth Syst. Sci.     Data Discuss. https://doi.org/10.5194/essd-2022-212
 
 
+
+
+# To Do List
+
+* **Comparative Analysis Across Species or Varieties:** You could use the spectral indices to compare different plant species or varieties under the same environmental conditions to determine which are more resilient to stressors like drought or nutrient deficiencies.
+
+* **Temporal Analysis:** Conduct a temporal analysis to observe how plants change over time under constant or variable conditions. This can help in understanding growth patterns, seasonal changes, and the onset of stress conditions.
+
+* **Environmental Correlation Studies:** Without ground truth data, you can still correlate changes in spectral indices with environmental data like weather patterns, soil moisture readings from sensors, or satellite-derived environmental information.
+
+* **Spectral Index Fusion:** Fuse multiple spectral indices to create composite indicators that might be more robust in indicating specific plant conditions or stressors.
+
+
+
 # Calibration 
 
 **1. Multivarite Claibration Techniques**
