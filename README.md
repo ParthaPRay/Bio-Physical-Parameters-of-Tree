@@ -404,12 +404,11 @@ https://escomp.github.io/ctsm-docs/versions/master/html/tech_note/index.html
 **Follwoing are difficult to measure by using AS7265x**
 
 
-
-* OSAVI = (1.16 * (NIR<sub>840</sub> - R<sub>660</sub>)/(NIR<sub>840</sub> + R<sub>640</sub> + 0.16)     _...AS7265x NOT Possible_
-* RDVI = (NIR<sub>840</sub> - R<sub>660</sub>)/(NIR<sub>840</sub> + R<sub>660</sub>)*(1/2)      _...AS7265x NOT Possible_
-* SIPI = (NIR<sub>840</sub> - B<sub>450</sub>)/(NIR<sub>940</sub> + R<sub>660</sub>)    _...AS7265x NOT Possible_
-* Anthocynanin Reflectance Index (ARI) = 1/R<sub>550</sub>) - 1/R<sub>700</sub>)     _...AS7265x NOT Possible_ 
-* Caretenoid Reflectance Index (CRI) = 1/R<sub>510</sub>) - 1/R<sub>550</sub>)    _...AS7265x NOT Possible_
+* OSAVI = (1.16 * (NIR<sub>840</sub> - R<sub>660</sub>)/(NIR<sub>840</sub> + R<sub>640</sub> + 0.16)     
+* RDVI = (NIR<sub>840</sub> - R<sub>660</sub>)/(NIR<sub>840</sub> + R<sub>660</sub>)*(1/2)      
+* SIPI = (NIR<sub>840</sub> - B<sub>450</sub>)/(NIR<sub>940</sub> + R<sub>660</sub>)   
+* Anthocynanin Reflectance Index (ARI) = 1/R<sub>550</sub>) - 1/R<sub>700</sub>)     
+* Caretenoid Reflectance Index (CRI) = 1/R<sub>510</sub>) - 1/R<sub>550</sub>)   
 * Water Band Index (WBI) = R<sub>970</sub>)/R<sub>900</sub>)         _...AS7265x NOT Possible_
 
 
