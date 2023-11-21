@@ -311,6 +311,7 @@ Chl a + b = 7.15λ663.2 + 18.71λ646.8
 
 Carotenoids = (1000* × λ470 nm − 1.82* × Chl a − 85.02* × Chl b)/198 
 
+Ref: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10143517/
 
 ![image](https://github.com/ParthaPRay/Bio-Physical-Parameters-of-Tree/assets/1689639/f4b401ad-856e-463b-93f0-df66e8a44f1e)
 
