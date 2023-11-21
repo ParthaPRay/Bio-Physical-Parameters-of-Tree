@@ -253,16 +253,17 @@ a spectrophotometer (SPECORD 200, Analytik Jena AG,
 Germany) at 470, 646, and 663 nm and calculated according
 to Lichtenthaler (1987):
 
-Chl a = 12.25A<sub>663.2</sub>−2.79A<sub>646.8</sub>
+Chl<sub>a</sub> = 12.25*R<sub>663</sub>−2.79*R<sub>646</sub>
 
-Chl b = 21.50A<sub>646.8</sub>−5.10A<sub>663.2</sub>
+Chl<sub>b</sub> = 21.50*R<sub>646</sub>−5.10*R<sub>663</sub>
 
-Chl a + b = 7.15A<sub>663.2</sub> + 18.71A<sub>646.8</sub>
+Chl<sub>(a + b)</sub> = 7.15*R<sub>663</sub> + 18.71*R<sub>646</sub>
 
-Car x + c = 1000A<sub>470</sub>−1.82 chl a−85.02 chl b
+Car<sub>(x + c)</sub> = 1000*R<sub>470</sub>−1.82*chla − 85.02*chlb
 
 The content of the pigments was then calculated as per gram of dry weight (mg g −1 ).
 
+Ref: https://link.springer.com/article/10.1007/s11676-022-01476-3
 
 **23. NEE, GPP and R<sub>ecp</sub>**
 
